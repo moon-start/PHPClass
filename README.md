@@ -190,6 +190,21 @@
 + 安裝與設定 Laravel
 + Laravel 目錄結構
 + Artisan 工具
++ Laravel 運作流程
+#### 參考文獻
+
+### 第十章 Laravel 的ＭＶＣ I [內容](ch10/README.md)
+#### HTTP 相關基本知識
++ HTTP 資料傳遞
++ HTTP 標頭與回應
+#### MVC 概念
+
+#### Laravel 的 Router 模組
+#### 參考文獻
+
+### 第十一章 Laravel 的ＭＶＣ II [內容](ch11/README.md)
+#### Controller 的使用
+#### View 與 Blade 的使用
 #### 參考文獻
 
 #### 參考書籍
